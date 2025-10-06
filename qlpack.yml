@@ -1,0 +1,5 @@
+name: scope-ql-pack
+version: 0.1.0
+library: false
+dependencies:
+  codeql/cpp-all: "*"

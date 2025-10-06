@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: /home/ez/Documents/SCOPE-QL
+baselineLinesOfCode: 64
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: cpp
+creationMetadata:
+  sha: d7d2f30bb5cb2b5010cc1208257df7271a41317b
+  cliVersion: 2.23.2
+  creationTime: 2025-10-06T19:19:18.207641780Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: true
