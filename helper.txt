@@ -1,9 +1,14 @@
+checkout where does bin/sh points to
+ls -l /bin/sh
+# force running with bash
+bash -x $(which codeql) query run FindMain.ql --database=db-hello -vv
+
 codeql pack install
 codeql database create scope --language=cpp --overwrite --command='sh -c "gcc -c *.c"'
 
-codeql query run FunctionStructure.ql --database=db-name --output=structure.bqrs
+codeql query run FunctionStructure.ql --database=scope --output=structure.bqrs
 codeql bqrs decode structure.bqrs --format=json --output=structure.json
 
 # For the taint analysis query
-codeql query run InputTaintToConditions.ql --database=db-name --output=taint.bqrs
+codeql query run InputTaintToConditions.ql --database=scope --output=taint.bqrs
 codeql bqrs decode taint.bqrs --format=json --output=taint.json

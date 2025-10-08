@@ -1,7 +1,7 @@
 {
     "attributes": {
         "cache-hits": 0,
-        "cache-misses": 2,
+        "cache-misses": 3,
         "compilers": [
             {
                 "program": "gcc",
@@ -12,7 +12,7 @@
             }
         ],
         "extractor-failures": 0,
-        "extractor-successes": 2,
+        "extractor-successes": 3,
         "trap-caching": "disabled"
     },
     "markdownMessage": "Internal telemetry for the C++ extractor.\n\nNo action needed.",
@@ -22,7 +22,7 @@
         "id": "cpp/extractor/summary",
         "name": "C++ extractor telemetry"
     },
-    "timestamp": "2025-10-06T19:19:19.520371+0000",
+    "timestamp": "2025-10-06T22:44:21.918204+0000",
     "visibility": {
         "cliSummaryTable": false,
         "statusPage": false,

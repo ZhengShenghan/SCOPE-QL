@@ -1,0 +1,1 @@
+{"timestamp":"2025-10-06T15:44:21.037115846-07:00","source":{"id":"cli/platform","name":"Platform"},"markdownMessage":"On the Linux (amd64; 5.15.0-139-generic) platform.","visibility":{"cliSummaryTable":false,"statusPage":false,"telemetry":true},"attributes":{"arch":"amd64","name":"Linux","version":"5.15.0-139-generic"}}

@@ -1,0 +1,3 @@
+Writing logs to /home/vboxuser/Documents/SCOPE-QL/db-hello/log/query-run-20251007.092730.451.log.
+Stringpool size measured as 2179482
+/tmp/codeql.7tQvYlBE:continue:26: not in while, until, select, or repeat loop

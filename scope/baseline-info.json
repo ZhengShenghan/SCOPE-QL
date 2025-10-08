@@ -1,1 +1,1 @@
-{"languages":{"cpp":{"displayName":"C/C++","files":["strcmp.c","crackme.c"],"linesOfCode":64,"name":"cpp"}}}
+{"languages":{"cpp":{"displayName":"C/C++","files":["crackme.c","strcmp.c","hello.c"],"linesOfCode":69,"name":"cpp"},"actions":{"displayName":"GitHub Actions","files":[],"linesOfCode":0,"name":"actions"}}}

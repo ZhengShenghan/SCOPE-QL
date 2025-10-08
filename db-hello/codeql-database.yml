@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: /home/vboxuser/Documents/SCOPE-QL
+baselineLinesOfCode: 69
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: cpp
+creationMetadata:
+  sha: 3a54cd570dc6c3b7c4da934fbbf06866ace47668
+  cliVersion: 2.20.1
+  creationTime: 2025-10-08T03:07:36.015496675Z
+finalised: true
